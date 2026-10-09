@@ -1,3 +1,3 @@
-# UTM_TP_JS_SI-265
-Repository public pentru stocarea lucrărilor de laborator la disciplina "Tehnici de
-Programare", în cadrul Universității Tehnice a Moldovei.
+# TP_Josan_Stefan_SI-265
+Depozit pentru lucrările de laborator ale studentului Josan Ștefan, din grupa SI-265,
+la disciplina 'Tehnici de Programare', UTM.
