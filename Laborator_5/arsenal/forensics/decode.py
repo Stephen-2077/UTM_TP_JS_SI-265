@@ -48,11 +48,11 @@ def citibil(b):
 def decodeaza_straturi(val):
     for _ in range(8):
         strat, b = desfa(val)
-        if citibil(b):
-            print(b)
+        if not citibil(b):
+            print(val)
             break
 
-        val = b.decode()
+        val = b.decode(errors="replace")
 
 print("\nA4:")
 decodeaza_straturi("NTM1OTU3NTk=")

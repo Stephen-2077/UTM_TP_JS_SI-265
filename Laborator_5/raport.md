@@ -14,7 +14,7 @@ Ultima etapă a constat în implementarea steganografiei LSB (Least Significant 
 
 ## 3. Rezultatele obținute
 
-În urma decodificării mesajului cu straturi multiple, a fost obținută valoarea hexadecimală '53595759', corespunzătoare textului ASCII 'SYWY'. În cadrul atacului XOR a fost identificată cheia '128', iar prin atacul cu dicționar a fost găsită parola 'password'.
+În urma decodificării mesajului cu straturi multiple, a fost obținută valoarea textului ASCII 'SYWY'. În cadrul atacului XOR a fost identificată cheia '128', iar prin atacul cu dicționar a fost găsită parola 'password'.
 
 Analiza fișierelor a permis verificarea tipurilor reale pe baza semnăturilor binare, identificarea textului imprimabil și examinarea metadatelor fotografiei, inclusiv a informațiilor GPS disponibile. Arhiva ZIP ascunsă a fost extrasă într-un fișier separat pentru examinarea conținutului său.
 
